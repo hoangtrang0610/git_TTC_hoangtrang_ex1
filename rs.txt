@@ -1,0 +1,7 @@
+B1: git clone https://gitlab.com/tubcvt/git_basic_ex1.git
+B2: git checkout -b f1_hoangtrang
+B3: touch t1.txt
+    + Thêm nội dung vào file: "hello sep duc" 
+    + Ctrl + S 
+B4: git commit -a -m 'add file t1.txt'
+
